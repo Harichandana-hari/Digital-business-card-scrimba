@@ -6,6 +6,7 @@ This is a solution to the Digital Business Card solo project on Scrimba.
   - [Requirements](#requirements)
   - [Screenshot](#screenshot)
 - [Built with](#built-with)
+- [See it!](#see-it)
 
 ## Overview
 ### Requirements
@@ -26,3 +27,6 @@ This is a solution to the Digital Business Card solo project on Scrimba.
 - CSS custom properties
 - React.JS
 - Flexbox
+
+### See it!!
+[Digital Business Card](https://digital-business-card-hari.netlify.app/)
