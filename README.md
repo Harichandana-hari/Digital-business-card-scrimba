@@ -5,7 +5,7 @@ This is a solution to the Digital Business Card solo project on Scrimba.
 - [Overview](#overview)
   - [Requirements](#requirements)
   - [Screenshot](#screenshot)
-- Built with
+- Built with(#built-with)
 
 ## Overview
 ### Requirements
@@ -18,4 +18,11 @@ This is a solution to the Digital Business Card solo project on Scrimba.
   * Footer (social icons)
 
 ### Screenshot
-![Screenshot of final project](images/scrimba digital business card.png)images/scrimba digital business card.png
+![Screenshot of final project](/images/screenshot.png)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- React.JS
+- Flexbox
