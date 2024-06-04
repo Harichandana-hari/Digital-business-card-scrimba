@@ -5,7 +5,7 @@ This is a solution to the Digital Business Card solo project on Scrimba.
 - [Overview](#overview)
   - [Requirements](#requirements)
   - [Screenshot](#screenshot)
-- Built with(#built-with)
+- [Built with](#built-with)
 
 ## Overview
 ### Requirements
