@@ -18,3 +18,4 @@ This is a solution to the Digital Business Card solo project on Scrimba.
   * Footer (social icons)
 
 ### Screenshot
+![Screenshot of final project](images/scrimba digital business card.png)images/scrimba digital business card.png
