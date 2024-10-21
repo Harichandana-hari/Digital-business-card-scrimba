@@ -18,9 +18,6 @@ This is a solution to the Digital Business Card solo project on Scrimba.
   * Interests
   * Footer (social icons)
 
-### Screenshot
-![Screenshot of final project](/images/screenshot.png)
-
 ### Built with
 
 - Semantic HTML5 markup
